@@ -1,10 +1,10 @@
 /**
- * entryPlugin是控制打包entry的插件
+ * entry-webpack-plugin是控制打包entry的插件
  * @param {Object} options 
  * @param {Boolean} options.enable 是否启用功能
  * @param {Array} options.filter 需要过滤的entry
  * @param {string} options.entry 需要新增的自定义entry路径
- * @author benye.deng
+ * @author me-hotel
  */
 
 function entryPlugin(options) {
