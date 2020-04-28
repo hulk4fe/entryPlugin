@@ -1,0 +1,2 @@
+# entryPlugin
+webpack entry plugin
