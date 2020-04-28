@@ -1,0 +1,25 @@
+{
+  "name": "entry-webpack-plugin",
+  "version": "1.0.0",
+  "description": "entry webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/me-hotel/entryPlugin.git"
+  },
+  "keywords": [
+    "webpack-plugin",
+    "webpack",
+    "plugin",
+    "entry"
+  ],
+  "author": "me-hotel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/me-hotel/entryPlugin/issues"
+  },
+  "homepage": "https://github.com/me-hotel/entryPlugin#readme"
+}
