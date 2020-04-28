@@ -21,7 +21,7 @@ entryPlugin.prototype.apply = function(compiler) {
   const enable = this.options.enable;
   let pathEntry = this.options.entry;
   const that = this;
-  const pluginFunction = (entry) => {
+  const pluginFunction = (local, entry) => {
       if (enable) {
           if (typeof entry === 'string') {
              entry = [pathEntry, entry];
