@@ -5,7 +5,7 @@ entry webpack plugin
 ## 安装
 
 ````bash
-npm install --save-dev entry-webapck-plugin
+npm install --save-dev entry-webpack-plugin
 ````
 
 ## 使用
